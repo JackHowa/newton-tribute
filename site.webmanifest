@@ -1,0 +1,16 @@
+{
+	"name": "Mr. Newton – Mentor To Thousands",
+	"short_name": "Mr. Newton",
+	"icons": [{
+		"src": "/android-chrome-192x192.png",
+		"sizes": "192x192",
+		"type": "image/png"
+	}, {
+		"src": "/android-chrome-512x512.png",
+		"sizes": "512x512",
+		"type": "image/png"
+	}],
+	"theme_color": "#62bf7c",
+	"background_color": "#fafafa",
+	"display": "standalone"
+}
